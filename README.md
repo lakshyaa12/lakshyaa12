@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lakshya Agarwal</h1>
-<h3 align="center">A passionate Python programmer from India</h3>
+<h3 align="center">3rd Student at Galgotias University, Greater Noida pursuing btech in computer science and engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaa12&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaa12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshyaa12" alt="lakshyaa12" /></a> </p>
-
-- 🔭 I’m currently working at [google](https://g. dev/lakshya_galgotias)
+- 🔭 I’m currently working at GOOGLE [AI/ML virtual internship](https://g. dev/lakshya_galgotias)
 
 - 🌱 I’m currently learning **Python Web Frameworks**
 
